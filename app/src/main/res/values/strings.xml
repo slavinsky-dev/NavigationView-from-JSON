@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JSON Test GCP Software</string>
+    <string name="menu_item_title_0">Menu Item 0</string>
+    <string name="gsplogo">gsplogo</string>
+    <string name="image_from_web">image from web</string>
+    <string name="json_test">JSON testing</string>
+    <string name="toast_back_exit">Click BACK again to exit</string>
+</resources>
